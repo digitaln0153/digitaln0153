@@ -5,6 +5,6 @@
 - 📫 How to reach me there is a website link u idiot
 
 <!---
-digitaln0153/digitaln0153 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+entrylevel0/entrylevel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
